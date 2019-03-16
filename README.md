@@ -1,5 +1,11 @@
 # Live Link [Eats Diner Blog](https://salty-spire-27212.herokuapp.com/#/)
 
+![alt text](https://github.com/SammoMichael/eats-diner-blog/blob/master/public/screenshots/Screen%20Shot%202562-03-13%20at%207.14.07%20PM.png "Screenshot1")
+
+![alt text](https://github.com/SammoMichael/eats-diner-blog/blob/master/public/screenshots/Screen%20Shot%202562-03-13%20at%207.16.15%20PM.png "Screenshot2")
+
+![alt text](https://github.com/SammoMichael/eats-diner-blog/blob/master/public/screenshots/Screen%20Shot%202562-03-13%20at%207.14.31%20PM.png "Screenshot3)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
